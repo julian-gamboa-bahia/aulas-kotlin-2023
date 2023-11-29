@@ -1,24 +1,83 @@
-# Compiled class file
-*.class
+.mvn/
+.vscode/
+#HELP.md
+mvnw
+mvnw.cmd
+#pom.xml
+src/
+target/
 
-# Log file
-*.log
 
-# BlueJ files
-*.ctxt
+kotlin-dio-2023
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
+ts_node_LET_dynamo
+
+aulas-kotlin-2023
+
+
+
+ts_node_LET_dynamo
+flutter-web/
+DYNAMO/
+LET_dynamo/
+VER-metaDATAS/
+JURIDICO_erick_denunciacao_CALUNIOSA/mec
+livro_angular/
+novembro-outubro-23/
+vaga_Angular/
+voltaUFABC/
+
+
+BOTS/
+DOCKER_outubro/
+DOCKER_mongo/
+
+#node
+avanadeEXEMPLO_rtc/
+
+#docker de wordpress
+outubro-04
+carinhas
+
+#docker de wordpress
+
+01-junho
+
+#pasta geral de APAGAR
+
+DATAPREV
+apagar
+*.m4a
+*.part 
+*.gif
+*.jpeg
+*.jpg
+*.pdf
+*.png
+*.mp4
+*.mp3
+shell.sh
+
 *.zip
-*.tar.gz
-*.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+# pastas 
+
+
+Telegram Desktop/
+15_agosto_2023/
+agosto/
+agosto_03_PDFs/
+elaineUNIequina/
+emergenciaPUBLICIDADE/
+julho_28_2023/
+ketytetas/
+nelio/
+passo_1/
+PDFS_2023-06-26---------------00-38-38/
+porno/
+publicidadeELAINE/
+serpro_arremate_2023/
+telefonista/
+vagasURGENTES_lima/
+venFrancis/
